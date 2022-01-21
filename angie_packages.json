@@ -1,0 +1,10 @@
+{
+    "angie.core": {
+        "name": "Angie Core",
+        "remote": "git@github.com:hernaj34/angie-core.git"
+    },
+    "angie.hl7": {
+        "name": "Angie HL7",
+        "remote": "git@github.com:hernaj34/angie-hl7.git"
+    }
+}
