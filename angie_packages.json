@@ -9,6 +9,6 @@
     },
     "test": {
         "name": "Test",
-        "remote": "git@github.com:hernaj34/angie-hl7.git"
+        "remote": "git@github.com:hernaj34/angie-core.git"
     }
 }
