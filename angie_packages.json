@@ -7,8 +7,8 @@
         "name": "Angie HL7",
         "remote": "git@github.com:hernaj34/angie-hl7.git"
     },
-    "test": {
-        "name": "Test",
-        "remote": "git@github.com:hernaj34/angie-core.git"
+    "angie.test": {
+        "name": "Angie Test",
+        "remote": "git@github.com:hernaj34/angie-test-package.git"
     }
 }
